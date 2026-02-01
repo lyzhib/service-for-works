@@ -1,0 +1,10 @@
+paths:
+  reports_dir: "reports"
+  output_dir: "output"
+
+sheets:
+  human_scores_file: "Проверка отчетов.xlsx"
+  criteria_file: "Критерии проверки отчетов.xlsx"
+
+scoring:
+  tolerance: 1
